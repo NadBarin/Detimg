@@ -22,7 +22,7 @@
    
 <center><img src="https://github.com/NadBarin/Detimg/blob/main/1/closing.png?raw=true" alt="drawing" width="200"/><center>
 
-Морфологический градиент (cv.morphologyEx(img, cv.MORPH_GRADIENT, kernel)) - это разница между расширением и размыванием изображения. Результат будет выглядеть как контур объекта.
+Морфологический градиент (cv.morphologyEx(img, cv.MORPH_GRADIENT, kernel)) - это разница между расширением и эрозией изображения. Результат будет выглядеть как контур объекта.
     
 <center><img src="https://github.com/NadBarin/Detimg/blob/main/1/gradient.png?raw=true" alt="drawing" width="200"/><center>
 
